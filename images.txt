@@ -1,4 +1,3 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-mongo:4.2.21
-yapipro/yapi:1.9.5
+bitnami/kafka:latest
