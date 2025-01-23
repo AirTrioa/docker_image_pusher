@@ -1,4 +1,3 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-gitlab/gitlab-ce:latest
-hanxi/xiaomusic:latest
+docker:20.10.20
