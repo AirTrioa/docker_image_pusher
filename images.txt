@@ -2,5 +2,6 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # docker:20.10.20-dind
 # maven/maven:3.6.3-openjdk-17
-xhongc/music_tag_web:latest
-deluan/navidrome:latest
+# xhongc/music_tag_web:latest
+# deluan/navidrome:latest
+xxxsen/yamdc:latest
