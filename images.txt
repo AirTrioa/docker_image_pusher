@@ -4,4 +4,5 @@
 # maven/maven:3.6.3-openjdk-17
 # xhongc/music_tag_web:latest
 # deluan/navidrome:latest
-xxxsen/yamdc:latest
+# xxxsen/yamdc:latest
+labring4docker/curl-kubectl:v1.0.0
