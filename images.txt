@@ -1,5 +1,5 @@
 #支持指定架构
---platform=linux/arm64 haroldli/xiaoya-tvbox
+# --platform=linux/arm64 haroldli/xiaoya-tvbox
 # docker:19.03.0-dind
 # maven/maven:3.6.3-openjdk-17
 # xhongc/music_tag_web:latest
@@ -7,3 +7,4 @@
 # xxxsen/yamdc:latest
 # labring4docker/curl-kubectl:v1.0.0
 # xiaoyaliu/alist:latest
+haroldli/xiaoya-tvbox
