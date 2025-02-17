@@ -7,4 +7,5 @@
 # xxxsen/yamdc:latest
 # labring4docker/curl-kubectl:v1.0.0
 # xiaoyaliu/alist:latest
-haroldli/xiaoya-tvbox
+# haroldli/xiaoya-tvbox
+docker.io/bitnami/zookeeper:3.9.1-debian-11-r4
