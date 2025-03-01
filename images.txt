@@ -11,4 +11,5 @@
 # docker.io/bitnami/zookeeper:3.9.1-debian-11-r4
 # gcr.io/kaniko-project/executor:debug
 # mikefarah/yq:4
-grafana/alloy:latest
+# grafana/alloy:latest
+grafana/promtail:latest
