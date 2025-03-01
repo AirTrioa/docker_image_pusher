@@ -12,4 +12,5 @@
 # gcr.io/kaniko-project/executor:debug
 # mikefarah/yq:4
 # grafana/alloy:latest
-grafana/promtail:latest
+# grafana/promtail:latest
+fluent/fluentd-kubernetes-daemonset:v1-debian-kafka
