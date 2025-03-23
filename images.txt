@@ -19,4 +19,5 @@
 # quay.io/kiwigrid/k8s-sidecar:1.19.2
 # jayfong/yapi:latest
 # mongo:4.4
-hagb/docker-easyconnect:cli
+# hagb/docker-easyconnect:cli
+samwaf/samwaf
