@@ -20,4 +20,5 @@
 # jayfong/yapi:latest
 # mongo:4.4
 # hagb/docker-easyconnect:cli
-samwaf/samwaf
+# samwaf/samwaf
+consul:latest
