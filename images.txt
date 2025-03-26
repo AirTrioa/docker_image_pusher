@@ -21,4 +21,4 @@
 # mongo:4.4
 # hagb/docker-easyconnect:cli
 # samwaf/samwaf
-consul:latest
+hashicorp/consul
