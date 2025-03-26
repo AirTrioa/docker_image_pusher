@@ -22,4 +22,4 @@
 # hagb/docker-easyconnect:cli
 # samwaf/samwaf
 # hashicorp/consul
-flask-consul:latest
+starsl.cn/flask-consul:latest
