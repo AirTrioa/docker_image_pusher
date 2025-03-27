@@ -22,4 +22,5 @@
 # hagb/docker-easyconnect:cli
 # samwaf/samwaf
 # hashicorp/consul
-swr.cn-south-1.myhuaweicloud.com/starsl.cn/flask-consul:latest
+# swr.cn-south-1.myhuaweicloud.com/starsl.cn/flask-consul:latest
+prom/prometheus
