@@ -23,4 +23,5 @@
 # samwaf/samwaf
 # hashicorp/consul
 # swr.cn-south-1.myhuaweicloud.com/starsl.cn/flask-consul:latest
-prom/prometheus
+# prom/prometheus
+victoria-metrics:v1.92.1
