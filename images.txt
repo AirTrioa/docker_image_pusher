@@ -24,4 +24,5 @@
 # hashicorp/consul
 # swr.cn-south-1.myhuaweicloud.com/starsl.cn/flask-consul:latest
 # prom/prometheus
-victoriametrics/victoria-metrics:v1.92.1
+# victoriametrics/victoria-metrics:v1.92.1
+openshift/origin-cli
