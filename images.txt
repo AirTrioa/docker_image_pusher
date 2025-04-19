@@ -25,4 +25,5 @@
 # swr.cn-south-1.myhuaweicloud.com/starsl.cn/flask-consul:latest
 # prom/prometheus
 # victoriametrics/victoria-metrics:v1.92.1
-openshift/origin-cli
+# openshift/origin-cli
+node/node:16.14.0-alpine
