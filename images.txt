@@ -26,4 +26,4 @@
 # prom/prometheus
 # victoriametrics/victoria-metrics:v1.92.1
 # openshift/origin-cli
-node:20.9.0
+node:20.9.0-alpine
