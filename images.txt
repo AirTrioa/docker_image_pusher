@@ -28,4 +28,4 @@
 # openshift/origin-cli
 # node:20.9.0-alpine
 # ubuntu:22.04
-jetbrains/upsource:2020.1.1992
+jetbrains/upsource:2020.1.2006
