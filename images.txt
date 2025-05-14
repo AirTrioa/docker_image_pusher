@@ -29,4 +29,4 @@
 # node:20.9.0-alpine
 # ubuntu:22.04
 # jetbrains/upsource:2020.1.2006
-mkdocs/mkdocs:1.2.3
+mkdocs:1.2.3
