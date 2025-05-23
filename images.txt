@@ -29,4 +29,5 @@
 # node:20.9.0-alpine
 # ubuntu:22.04
 # jetbrains/upsource:2020.1.2006
-polinux/mkdocs:1.2.3
+# polinux/mkdocs:1.2.3
+alpine:3.18
