@@ -31,4 +31,5 @@
 # jetbrains/upsource:2020.1.2006
 # polinux/mkdocs:1.2.3
 # alpine:3.18
-quay.io/prometheus/alertmanager
+# quay.io/prometheus/alertmanager
+grafana/grafana:latest
