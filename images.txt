@@ -32,4 +32,6 @@
 # polinux/mkdocs:1.2.3
 # alpine:3.18
 # quay.io/prometheus/alertmanager
-grafana/grafana:latest
+# grafana/grafana:latest
+snowdreamtech/frps:latest
+snowdreamtech/frpc:latest
