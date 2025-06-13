@@ -33,5 +33,6 @@
 # alpine:3.18
 # quay.io/prometheus/alertmanager
 # grafana/grafana:latest
-snowdreamtech/frps:latest
-snowdreamtech/frpc:latest
+# snowdreamtech/frps:latest
+# snowdreamtech/frpc:latest
+--platform=linux/arm64 cym1102/nginxwebui:latest
