@@ -36,4 +36,4 @@
 # snowdreamtech/frps:latest
 # snowdreamtech/frpc:latest
 # --platform=linux/arm64 uozi/nginx-ui
---platform=linux/arm64 alpine/java:8
+--platform=linux/arm64 alpine/openjdk:8
