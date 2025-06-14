@@ -35,4 +35,4 @@
 # grafana/grafana:latest
 # snowdreamtech/frps:latest
 # snowdreamtech/frpc:latest
---platform=linux/arm64 uozi/nginx-ui:latest
+--platform=linux/arm64 uozi/nginx-ui
