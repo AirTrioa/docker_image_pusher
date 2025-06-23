@@ -36,4 +36,5 @@
 # snowdreamtech/frps:latest
 # snowdreamtech/frpc:latest
 # --platform=linux/arm64 uozi/nginx-ui
---platform=linux/arm64 arm64v8/openjdk:8-jdk
+# --platform=linux/arm64 arm64v8/openjdk:8-jdk
+whyour/qinglong:debian
