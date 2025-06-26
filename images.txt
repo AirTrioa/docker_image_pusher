@@ -38,4 +38,5 @@
 # --platform=linux/arm64 uozi/nginx-ui
 # --platform=linux/arm64 arm64v8/openjdk:8-jdk
 # whyour/qinglong:debian
-golang:1.22-bullseye
+# golang:1.22-bullseye
+alpine:3.19
