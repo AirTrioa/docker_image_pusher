@@ -41,6 +41,7 @@
 # golang:1.22-bullseye
 # alpine:3.19
 # postgres:13-alpine
-redis:6-alpine
-rabbitmq:3-management-alpine
-onlyoffice/documentserver:7.2
+# redis:6-alpine
+# rabbitmq:3-management-alpine
+# onlyoffice/documentserver:7.2
+linzeyi/hivision_idphotos
