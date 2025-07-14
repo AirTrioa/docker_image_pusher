@@ -44,4 +44,5 @@
 # redis:6-alpine
 # rabbitmq:3-management-alpine
 # onlyoffice/documentserver:7.2
-linzeyi/hivision_idphotos
+# linzeyi/hivision_idphotos
+blackbox-exporter:v0.24.0
