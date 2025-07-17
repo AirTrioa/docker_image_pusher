@@ -45,4 +45,5 @@
 # rabbitmq:3-management-alpine
 # onlyoffice/documentserver:7.2
 # linzeyi/hivision_idphotos
-quay.io/prometheus/blackbox-exporter:v0.24.0
+# quay.io/prometheus/blackbox-exporter:v0.24.0
+minio/minio:RELEASE.2025-02-18T16-25-55Z
