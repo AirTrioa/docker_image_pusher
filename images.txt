@@ -47,4 +47,6 @@
 # linzeyi/hivision_idphotos
 # quay.io/prometheus/blackbox-exporter:v0.24.0
 # minio/minio:RELEASE.2025-02-18T16-25-55Z
-gcr.io/kaniko-project/warmer
+# gcr.io/kaniko-project/warmer
+quay.io/ansible/awx-operator:2.19.1
+gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
