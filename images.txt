@@ -55,6 +55,6 @@
 # quay.io/ansible/awx-ee:24.6.1
 # docker.io/redis:7
 # quay.io/ansible/awx-operator:latest
-prom/mysqld-exporter:1.0
+prom/mysqld-exporter:v0.13.0
 # oliver006/redis_exporter:latest
 # danielqsj/kafka-exporter
