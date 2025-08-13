@@ -58,4 +58,5 @@
 prom/mysqld-exporter:v0.13.0
 # oliver006/redis_exporter:latest
 # danielqsj/kafka-exporter
-portainer/portainer-ce
+# portainer/portainer-ce
+quay.io/skopeo/stable:latest
