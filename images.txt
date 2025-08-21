@@ -60,4 +60,5 @@ prom/mysqld-exporter:v0.13.0
 # danielqsj/kafka-exporter
 # portainer/portainer-ce
 # quay.io/skopeo/stable:latest
-error311/filerise-docker
+# error311/filerise-docker
+registry.k8s.io/inotify-tools:1.0
