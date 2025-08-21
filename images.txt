@@ -61,4 +61,4 @@ prom/mysqld-exporter:v0.13.0
 # portainer/portainer-ce
 # quay.io/skopeo/stable:latest
 # error311/filerise-docker
-registry.k8s.io/inotify-tools:1.0
+inotify-tools:1.0
