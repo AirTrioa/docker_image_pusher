@@ -63,4 +63,5 @@ prom/mysqld-exporter:v0.13.0
 # error311/filerise-docker
 # inotify-tools:1.0
 # node:lts-alpine
-node:22-alpine
+# node:22-alpine
+python:3.12-slim
