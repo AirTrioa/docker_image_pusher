@@ -64,4 +64,5 @@ prom/mysqld-exporter:v0.13.0
 # inotify-tools:1.0
 # node:lts-alpine
 # node:22-alpine
-python:3.12-slim
+# python:3.12-slim
+xpzouying/xiaohongshu-mcp
