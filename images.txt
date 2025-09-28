@@ -65,4 +65,6 @@ prom/mysqld-exporter:v0.13.0
 # node:lts-alpine
 # node:22-alpine
 # python:3.12-slim
-xpzouying/xiaohongshu-mcp
+# xpzouying/xiaohongshu-mcp
+docker.io/library/ubuntu:22.04
+docker.io/library/golang:1.24
