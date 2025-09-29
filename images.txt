@@ -70,4 +70,4 @@ prom/mysqld-exporter:v0.13.0
 # docker.io/library/golang:1.24
 # calciumion/new-api:latest
 # beidongjiedeguang/openai-forward:latest
-golang/golang:1.24-bullseye
+golang:1.24-bullseye
