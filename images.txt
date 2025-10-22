@@ -1,5 +1,7 @@
 #支持指定架构
 # --platform=linux/arm64 haroldli/xiaoya-tvbox
+--platform=linux/arm64 golang:1.22
+--platform=linux/arm64 gcr.io-distroless-base:debug
 # docker:19.03.0-dind
 # maven/maven:3.6.3-openjdk-17
 # xhongc/music_tag_web:latest
@@ -55,7 +57,7 @@
 # quay.io/ansible/awx-ee:24.6.1
 # docker.io/redis:7
 # quay.io/ansible/awx-operator:latest
-prom/mysqld-exporter:v0.13.0
+# prom/mysqld-exporter:v0.13.0
 # oliver006/redis_exporter:latest
 # danielqsj/kafka-exporter
 # portainer/portainer-ce
@@ -71,4 +73,4 @@ prom/mysqld-exporter:v0.13.0
 # calciumion/new-api:latest
 # beidongjiedeguang/openai-forward:latest
 # golang:1.24-bullseye
-justsong/one-api
+# justsong/one-api
