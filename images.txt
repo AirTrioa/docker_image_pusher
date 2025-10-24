@@ -75,4 +75,5 @@
 # golang:1.24-bullseye
 # justsong/one-api
 # prometheuscommunity/elasticsearch-exporter:latest
---platform=linux/arm64 gitlab/gitlab-runner-helper:v17.8.1
+# --platform=linux/arm64 gitlab/gitlab-runner-helper:v17.8.1
+--platform=linux/arm64 registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:arm64-v17.8.1
