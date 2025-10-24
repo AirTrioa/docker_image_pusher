@@ -11,7 +11,7 @@
 # xiaoyaliu/alist:latest
 # haroldli/xiaoya-tvbox
 # docker.io/bitnami/zookeeper:3.9.1-debian-11-r4
---platform=linux/arm64 gcr.io/kaniko-project/executor:debug
+# --platform=linux/arm64 gcr.io/kaniko-project/executor:debug
 # mikefarah/yq:4
 # grafana/alloy:latest
 # grafana/promtail:latest
@@ -74,3 +74,4 @@
 # beidongjiedeguang/openai-forward:latest
 # golang:1.24-bullseye
 # justsong/one-api
+prometheuscommunity/elasticsearch-exporter:latest
