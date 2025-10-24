@@ -74,4 +74,5 @@
 # beidongjiedeguang/openai-forward:latest
 # golang:1.24-bullseye
 # justsong/one-api
-prometheuscommunity/elasticsearch-exporter:latest
+# prometheuscommunity/elasticsearch-exporter:latest
+--platform=linux/arm64 gitlab-runner-helper:v17.8.1
