@@ -79,7 +79,7 @@
 # --platform=linux/arm64 registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:arm64-v17.8.1
 # ghcr.io/flannel-io/flannel:v0.27.4
 # bitnami/mysql:8.0.34-debian-11-r31
-redis:7.2.3
-gcr.m.daocloud.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.41.3@sha256:be79c0cb48bc226e7b5f4d530e566232863e8d9b81dda93fdb0f8dd15594d566
-gcr.m.daocloud.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.41.3@sha256:63d7881d8af0b7814cc120314765e33d707fc11167fea3213123ca211641c797
-gcr.m.daocloud.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.41.3@sha256:a4e22e130cb09f664291014f1da8e4e89d837481921e0d1b6286dc66ebe5559c
+# redis:7.2.3
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.41.3
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.41.3
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.41.3
