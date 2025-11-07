@@ -80,6 +80,6 @@
 # ghcr.io/flannel-io/flannel:v0.27.4
 # bitnami/mysql:8.0.34-debian-11-r31
 # redis:7.2.3
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.41.3
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.41.3
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.41.3
+ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/controller:v0.41.3
+ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/webhook:v0.41.3
+ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/resolvers:v0.41.3
