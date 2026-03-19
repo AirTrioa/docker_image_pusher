@@ -107,4 +107,4 @@
 # goharbor/harbor-jobservice:v2.5.6
 # goharbor/redis-photon:v2.5.6
 # goharbor/nginx-photon:v2.5.6
-bitnami/redis:6.2.6-debian
+bitnami/redis:6.2.6
