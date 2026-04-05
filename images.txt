@@ -110,4 +110,5 @@
 # bitnami/redis:6.2.6
 # --platform=linux/arm64 rancher/mirrored-flannelcni-flannel:v0.20.2
 # --platform=linux/arm64 rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
---platform=linux/arm64 bitnami/kafka:3.9.0-debian-12-r4
+# --platform=linux/arm64 bitnami/kafka:3.9.0-debian-12-r4
+--platform=linux/arm64 sig-storage/nfs-external-provisioner:v4.0.0
