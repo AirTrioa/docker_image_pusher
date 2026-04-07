@@ -132,4 +132,5 @@
 # --platform=linux/arm64 ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.41.3
 # --platform=linux/arm64 ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.41.3
 # --platform=linux/arm64 ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.41.3
---platform=linux/arm64 cgr.dev/chainguard/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
+# --platform=linux/arm64 cgr.dev/chainguard/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
+docker.io/istio/proxyv2:1.14.1
