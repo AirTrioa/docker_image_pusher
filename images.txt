@@ -120,5 +120,5 @@
 # --platform=linux/arm64 goharbor/registry-photon:v2.10.0                                                                                                         
 # --platform=linux/arm64 goharbor/harbor-portal:v2.10.0                                                                                                           
 # --platform=linux/arm64 goharbor/harbor-core:v2.10.0                                                                                                             
-# --platform=linux/arm64 goharbor/harbor-db:v2.10.0 
---platform=linux/arm64 prometheus-operator/prometheus-config-reloader:v0.57.0
+# --platform=linux/arm64 goharbor/harbor-db:v2.10.0
+--platform=linux/arm64 ghcr.io/prometheus-operator/prometheus-config-reloader:v0.57.0-arm64
