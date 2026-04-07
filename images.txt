@@ -110,14 +110,15 @@
 # bitnami/redis:6.2.6
 # --platform=linux/arm64 rancher/mirrored-flannelcni-flannel:v0.20.2
 # --platform=linux/arm64 rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
---platform=linux/arm64 goharbor/trivy-adapter-photon:v2.10.0                                                                                                    
---platform=linux/arm64 goharbor/prepare:v2.10.0                                                                                                                 
---platform=linux/arm64 goharbor/harbor-log:v2.10.0                                                                                                              
---platform=linux/arm64 goharbor/harbor-registryctl:v2.10.0                                                                                                      
---platform=linux/arm64 goharbor/nginx-photon:v2.10.0                                                                                                            
---platform=linux/arm64 goharbor/harbor-exporter:v2.10.0                                                                                                         
---platform=linux/arm64 goharbor/redis-photon:v2.10.0                                                                                                            
---platform=linux/arm64 goharbor/registry-photon:v2.10.0                                                                                                         
---platform=linux/arm64 goharbor/harbor-portal:v2.10.0                                                                                                           
---platform=linux/arm64 goharbor/harbor-core:v2.10.0                                                                                                             
---platform=linux/arm64 goharbor/harbor-db:v2.10.0    
+# --platform=linux/arm64 goharbor/trivy-adapter-photon:v2.10.0                                                                                                    
+# --platform=linux/arm64 goharbor/prepare:v2.10.0                                                                                                                 
+# --platform=linux/arm64 goharbor/harbor-log:v2.10.0                                                                                                              
+# --platform=linux/arm64 goharbor/harbor-registryctl:v2.10.0                                                                                                      
+# --platform=linux/arm64 goharbor/nginx-photon:v2.10.0                                                                                                            
+# --platform=linux/arm64 goharbor/harbor-exporter:v2.10.0                                                                                                         
+# --platform=linux/arm64 goharbor/redis-photon:v2.10.0                                                                                                            
+# --platform=linux/arm64 goharbor/registry-photon:v2.10.0                                                                                                         
+# --platform=linux/arm64 goharbor/harbor-portal:v2.10.0                                                                                                           
+# --platform=linux/arm64 goharbor/harbor-core:v2.10.0                                                                                                             
+# --platform=linux/arm64 goharbor/harbor-db:v2.10.0 
+--platform=linux/arm64 prometheus-operator/prometheus-config-reloader:v0.57.0
